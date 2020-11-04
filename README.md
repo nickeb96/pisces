@@ -35,7 +35,7 @@ set -U pisces_only_insert_at_eol 1
 
 * Using [Fisher](https://github.com/jorgebucaran/fisher):
   ```fish
-  fisher add laughedelic/pisces
+  fisher install laughedelic/pisces
   ```
 
 * Using [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish):
